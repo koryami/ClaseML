@@ -1,2 +1,4 @@
 ola k hace
-estudiando git
+bug corregido.
+terminado.
+
